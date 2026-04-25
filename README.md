@@ -1,16 +1,21 @@
-## Hi there 👋
+#  Zaich Smail — QA Engineer
 
-<!--
-**smail-ops/smail-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ISTQB & A4Q Selenium Certified | Automated Software Tester
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python | Selenium Grid | Postman | Newman
+- Jira | Xray | Agile / Scrum
+- HTML | CSS | JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Certifications
+- ISTQB Foundation Level
+- A4Q Selenium Tester
+- QA Bootcamp - Consulting School P1-2026
+
+##  Projects
+- **formation-app-tests** → Selenium Grid automated tests on FormationApp
+
+##  Contact
+-  smail.zaich02@gmail.com
+-  LinkedIn : @zaich-smail
+-  Île-de-France / Hauts-de-France
