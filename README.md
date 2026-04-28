@@ -17,5 +17,5 @@
 
 ##  Contact
 -  smail.zaich02@gmail.com
--  LinkedIn : @zaich-smail
+-  LinkedIn : @zaich smail
 -  Île-de-France / Hauts-de-France
