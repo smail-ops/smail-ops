@@ -14,6 +14,7 @@
 
 ##  Projects
 - **formation-app-tests** → Selenium Grid automated tests on FormationApp
+- **backmarket-tests** → Playwright automated tests on backmarket 
 
 ##  Contact
 -  smail.zaich02@gmail.com
