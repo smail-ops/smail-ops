@@ -3,7 +3,7 @@
 > ISTQB & A4Q Selenium Certified | Automated Software Tester
 
 ## Tech Stack
-- Python | Selenium Grid | Postman | Newman
+- Python | Selenium Grid | Playwright | Postman | Newman
 - Jira | Xray | Agile / Scrum
 - HTML | CSS | JavaScript
 
