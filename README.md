@@ -5,7 +5,7 @@
 ## Tech Stack
 - Python | Selenium Grid | Playwright | Robot Framework | Postman | Newman
 - Jira | Xray | Agile / Scrum
-- HTML | CSS | JavaScript
+- HTML | CSS | JavaScript | Bash
 
 ##  Certifications
 - ISTQB Foundation Level
