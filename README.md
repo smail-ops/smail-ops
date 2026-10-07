@@ -14,7 +14,9 @@
 
 ##  Projects
 - **formation-app-tests** → Selenium Grid automated tests on FormationApp
-- **backmarket-tests** → Playwright automated tests on backmarket 
+- **backmarket-tests** → Playwright automated tests on backmarket
+**suivi-candidatures** → React app tested with Playwright, CI/CD pipeline with GitHub Actions
+  **robot-framework-saucedemo** → Robot Framework / SeleniumLibrary automated tests on SauceDemo
 
 ##  Contact
 -  smail.zaich02@gmail.com
